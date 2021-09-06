@@ -1,4 +1,7 @@
 ### Hi there 👋
+I have starting coding in early June 2021, it's been really challenging but I love it.
+I studied through Le wagon Bootcamp, and I'm so gratefull for all the knowledge that I have.
+I can now say that I am a Junior Full stack developer, eager to learn more, work with many different people and discover new things through Code!
 
 <!--
 **PierreRichemond/PierreRichemond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

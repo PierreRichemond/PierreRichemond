@@ -1,5 +1,5 @@
 ### Hi there 👋
-I started coding in early July 2021, it's been really challenging but I love it. I studied through Le wagon Bootcamp, and I'm so grateful for all the knowledge that I gained. I can now say that I am a Junior Full stack developer, eager to learn more, work with many different people and discover new things through Code! Latest work : [Ikujitime(Memo-me)](https://www.memo-me.co/) //// [NotDIY](https://notdiy.herokuapp.com/) //// [Watch-list](https://myfirstonlineapp.herokuapp.com/lists) //// [Cat_landing](https://pierrerichemond.github.io/cat-landing/)
+I started coding in early July 2021, it's been really challenging but I love it. I studied through Le wagon Bootcamp, and I'm so grateful for all the knowledge that I gained. I can now say that I am a Junior Full stack developer, eager to learn more, work with many different people and discover new things through Code! Latest work : [Paleo-map](https://paleo-map101.herokuapp.com/) //// [Ikujitime(Memo-me)](https://www.memo-me.co/) //// [NotDIY](https://notdiy.herokuapp.com/) //// [Watch-list](https://myfirstonlineapp.herokuapp.com/lists) 
 
               
               

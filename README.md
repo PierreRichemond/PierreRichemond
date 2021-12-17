@@ -4,9 +4,9 @@
 <h3 align="center">A Full-stack developer Ruby on Rails from France</h3>
 I started coding in early July 2021, it's been really challenging but I love it. I studied through Le wagon Bootcamp, and I'm so grateful for all the knowledge that I gained.
 <br>
-I bet you want to know what I'm doing?! Check out my [Portfolio](https://www.pierre-richemond.me/)!
+I bet you want to know what I'm doing?! Check out my Portfolio(https://www.pierre-richemond.me/)!
 <br>
-I am also Studing JavaScript through [Javacript30](https://javascript30.com/) and learn how to write minitest tests with [GoRails](https://gorails.com/).
+I am also Studing JavaScript through Javacript30(https://javascript30.com/) and learn how to write minitest tests with GoRails(https://gorails.com/).
               
 
 <h3 align="center">Front-End:</h3>

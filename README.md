@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1 align="center">Hi there 👋, I'm Pierre</h1>                                                                                                         
+<h1 align="center">Hi there, I'm Pierre 👋</h1>                                                                                                         
 <h3 align="center">A Full-stack developer Ruby on Rails from France</h3>
 I started coding in early July 2021, it's been really challenging but I love it. I studied through Le wagon Bootcamp, and I'm so grateful for all the knowledge that I gained.
 <br>

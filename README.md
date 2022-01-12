@@ -4,7 +4,7 @@ I started coding in early July 2021, it's been really challenging but I love it.
 <br>
 I bet you want to know what I'm doing?! Check out my Portfolio(https://www.pierre-richemond.me/)!
 <br>
-I am also studing JavaScript through Javacript30(https://javascript30.com/) and learn how to write minitest tests with GoRails(https://gorails.com/).
+I am also studing JavaScript through Javacript30(https://javascript30.com/) and learn how to write tests with RSpec on Udemi.
               
 
 <h3 align="center">Front-End:</h3>

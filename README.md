@@ -5,6 +5,7 @@ I started coding in 2021, it's been really challenging but I love it. I studied 
 I bet you want to know what I'm doing?! Check out my Portfolio(https://www.pierre-richemond.me/)!
 <br>
 If you are a recruiter and you want to read some of my code, please have a look at the RPG_on_browser(https://github.com/PierreRichemond/RPG_on_browser).
+I'm also doing some Coding exercises on CodeWars(https://www.codewars.com/users/PierreRichemond)
 <br>
 I am also studing JavaScript through Javacript30(https://javascript30.com/) and learn how to write tests with RSpec on Udemi.
               

@@ -1,15 +1,12 @@
 <h1 align="center">Hi there, I'm Pierre 👋</h1>                                                                                                         
 <h3 align="center">A Full-stack developer Ruby on Rails from France</h3>
-I started coding in 2021, it's been really challenging but I love it. I studied through Le wagon Bootcamp, and I'm so grateful for all the knowledge that I gained. I had the opportunity to work in a start up in Toulouse, I never stopped sharpening my skills.
+I started coding in 2021, it's been really challenging but I love it. I studied through Le wagon Bootcamp, and I'm so grateful for all the knowledge that I gained. I had the opportunity to work in a start up in Toulouse and a full stack ruby on rails developper, I never stopped sharpening my skills.
 <br>
 I bet you want to know what I'm doing?! Check out my Portfolio(https://pierre-richemond-portfolio.netlify.app/)!
 <br><br>
 If you are a recruiter and you want to read some of my code: <br>
- - Back-end oriented project => RPG_on_browser(https://github.com/PierreRichemond/RPG_on_browser).<br>
  - Full-stack oriented project => Inn(https://github.com/PierreRichemond/Inn).<br>
- - Rspec => (https://github.com/PierreRichemond/Battleship).<br>
- - Coding exercises on CodeWars => (https://www.codewars.com/users/PierreRichemond).<br>
- - Coding exercises on Hakkerrank => (https://www.hackerrank.com/pierreambroise).<br>
+ - Back-end oriented project => RPG_on_browser(https://github.com/PierreRichemond/RPG_on_browser).<br>
 <br>
 I am also studing JavaScript:<br>
  - Javacript => (https://javascript30.com/).<br>

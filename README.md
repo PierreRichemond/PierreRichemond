@@ -5,14 +5,8 @@ I started coding in 2021, it's been really challenging but I love it. I studied 
 I bet you want to know what I'm doing?! Check out my Portfolio(https://pierre-richemond-portfolio.netlify.app/)!
 <br><br>
 If you are a recruiter and you want to read some of my code: <br>
- - Full-stack oriented project => Inn(https://github.com/PierreRichemond/Inn).<br>
- - Back-end oriented project => RPG_on_browser(https://github.com/PierreRichemond/RPG_on_browser).<br>
-<br>
-I am also studing JavaScript:<br>
- - Javacript => (https://javascript30.com/).<br>
- - React => (https://www.udemy.com/course/formation-react-js-pour-tous).<br>
-
-              
+ - Full-stack oriented project => Inn(https://github.com/PierreRichemond/Inn).
+<br>   
 
 <h3 align="center">Front-End:</h3>
 <p align="center">  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img 

@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Pierre 👋</h1>                                                                                                         
-<h3 align="center">A Full-stack developer Ruby on Rails from France</h3>
-I started coding in 2021, it's been really challenging but I love it. I studied through Le wagon Bootcamp, and I'm so grateful for all the knowledge that I gained. I had the opportunity to work in a start up in Toulouse and a full stack ruby on rails developper, I never stopped sharpening my skills.
+<h3 align="center">A Full-stack developer Ruby on Rails</h3>
+I started coding in 2021. I studied through Le wagon Bootcamp, and I'm so grateful for all the knowledge that I gained. I had the opportunity to work in a start up in Toulouse and a full stack ruby on rails developper, I never stopped sharpening my skills.
 <br>
 I bet you want to know what I'm doing?! Check out my Portfolio(https://pierre-richemond-portfolio.netlify.app/)!
 <br><br>
